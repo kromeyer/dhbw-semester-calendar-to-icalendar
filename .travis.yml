@@ -1,3 +1,4 @@
 language: node_js
+env: TZ=Europe/Berlin
 node_js:
   - "0.10"
